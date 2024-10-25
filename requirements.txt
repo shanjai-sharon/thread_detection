@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+opencv-python
+numpy
+cvzone
+ultralytics
+sqlite3
+requests
+streamlit
